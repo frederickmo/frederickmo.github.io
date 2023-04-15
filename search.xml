@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
+    <title>这是一篇新博文</title>
     <url>/2022/10/25/hello-world/</url>
-    <content><![CDATA[<h1 id="这是一篇新博文"><a href="#这是一篇新博文" class="headerlink" title="这是一篇新博文"></a>这是一篇新博文</h1><p>重新开了个博客</p>
+    <content><![CDATA[<p>重新开了个博客</p>
 ]]></content>
       <categories>
         <category>other</category>
